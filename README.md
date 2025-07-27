@@ -1,6 +1,6 @@
 # 🤖 Chatbot with RAG and LangChain  
 
-This project implements a Retrieval-Augmented Generation (RAG)-based chatbot using LangChain, OpenAI API, and FAISS/ChromaDB for intelligent question answering based on custom document ingestion. To get started, ensure you have Python 3.11 or above installed.  
+This project implements a Retrieval-Augmented Generation (RAG)-based chatbot using LangChain, Huggingface/OpenAI API, and FAISS/ChromaDB for intelligent question answering based on custom document ingestion. To get started, ensure you have Python 3.11 or above installed.  
 
 First, clone this repository using:
 
