@@ -28,6 +28,7 @@ Make sure you add your HuggigingFace API key or any key you want to use, add it 
 ```
 HuggigingFace_API_KEY="your_HuggigingFace_api_key"
 ```
+## Frontend is designed with Gradio
 
 Finally, run the following commands to ingest your data and start the chatbot:
 
